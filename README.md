@@ -64,7 +64,6 @@ Escolha uma [fonte Google](https://fonts.google.com/) a seu gosto para as págin
 * Insira para cada banda uma biografia, peça ao chatGPT uma curta de 4-5 linhas.
 * Na página da banda, insira a biografia.
 * use selectores pseudo-elementos de first-letter e first-line para estilizar o texto da biografia.
-11. nos seus formulários, remova o uso de quebras de linha `br` para colocar inputs em linhas diferentes. Em vez disso, transforme os elementos `input` em blocos através da propriedade `display`. 
 
 ### Fotografia da banda
 * estilize as molduras (border) das imagens usando seletores, sem recorrer a classes.
