@@ -8,8 +8,9 @@ Universidade Lusófona
 * familiarizar-se com algumas propriedades CSS
 * Irá usar a aplicação Bandas para experimentar todos os seletores e propriedades que falámos. Poderá ficar extra-colorida-folcórica, mas o intuito é experimentar! Noutra ficha terá oportunidade de estilizar a app do curso de forma mais coerente e sóbria. 
 
-### Recomendações:
-* consultar os slides da aula, lendo os restantes slides sobre propriedades CSS (slide 18 até ao fim).
+### Antes de iniciar a ficha:
+* Reveja os [slides sobre seletores](https://moodle.ensinolusofona.pt/mod/assign/view.php?id=320138)
+* Reveja os [slides sobre propriedades](https://moodle.ensinolusofona.pt/mod/assign/view.php?id=320138), lendo todos os slides até ao fim.
 
 # Estilização da aplicação Bandas 🎸
 * crie na pasta da aplicação `bandas` a pasta `static/bandas`, onde guarde o ficheiro estilos.css.
