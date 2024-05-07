@@ -1,7 +1,7 @@
 Universidade Lusófona
 **Programação Web**
 
-# Ficha 9: Estilização das aplicações com CSS, seus seletores e propriedades 
+# Ficha 9: Estilização da aplicação Bandas com seletores e propriedades CSS 
 
 ### Objetivo:
 * Familiarizar-se com os selectores CSS 
