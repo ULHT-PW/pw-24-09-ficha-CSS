@@ -47,8 +47,8 @@ Escolha uma [fonte Google](https://fonts.google.com/) a seu gosto para as págin
    * utilize [icons](https://fontawesome.com/search?q=music&o=r) a seu gosto. Para um icon à sua escolha (que não seja Pro, exclusivos para subscrições pagas) use no seu HTML o elemento que o identifica, por exemplo<br>`<i class="fa-solid fa-music"></i>`
  
 
-### Elementos com fundos
-* crie alguns elementos com um padrao escolhido em https://pixabay.com/pt/
+#### Elementos com fundos
+ * crie alguns elementos com um padrao ue goste, por exemplo em https://pixabay.com/pt/
 * para tal, especifique o background tendo no url o link para a imagem
 
 #### Letras
