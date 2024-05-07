@@ -45,6 +45,11 @@ Escolha uma [fonte Google](https://fonts.google.com/) a seu gosto para as págin
    * no elemento head do layout.html, insira um elemento script   
 `    <script src="https://kit.fontawesome.com/5d1319edfb.js" crossorigin="anonymous"></script>`
    * utilize [icons](https://fontawesome.com/search?q=music&o=r) a seu gosto. Para um icon à sua escolha (que não seja Pro, exclusivos para subscrições pagas) use no seu HTML o elemento que o identifica, por exemplo<br>`<i class="fa-solid fa-music"></i>`
+ 
+
+### Elementos com fundos
+* crie alguns elementos com um padrao escolhido em https://pixabay.com/pt/
+* para tal, especifique o background tendo no url o link para a imagem
 
 #### Letras
 * adicione, à classe Musica, o campo letra, um TextField. Não se esqueça de especificar os atributos default, null e blank:<br> `letra = models.TextField(default='', null=True, blank=True)`
